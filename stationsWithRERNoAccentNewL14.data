@@ -1,0 +1,936 @@
+#### 1-a:La Defense -- Chateau de Vincennes
+1-a:Grande Arche de La Defense
+1-a:Esplanade de La Defense
+1-a:Pont de Neuilly
+1-a:Les Sablons
+1-a:Porte Maillot
+1-a:Argentine
+1-a:Charles de Gaulle - Etoile
+1-a:George V
+1-a:Franklin-D. Roosevelt
+1-a:Champs Elysees - Clemenceau
+1-a:Concorde
+1-a:Tuileries
+1-a:Palais Royal - Musee du Louvre
+1-a:Louvre - Rivoli
+1-a:Chatelet
+1-a:Hotel de Ville
+1-a:Saint-Paul
+1-a:Bastille
+1-a:Gare de Lyon
+1-a:Reuilly - Diderot
+1-a:Nation
+1-a:Porte de Vincennes
+1-a:Saint-Mande - Tourelle
+1-a:Berault
+1-a:Chateau de Vincennes
+#### 1-b:Chateau de Vincennes -- La Defense
+1-b:Chateau de Vincennes
+1-b:Berault
+1-b:Saint-Mande - Tourelle
+1-b:Porte de Vincennes
+1-b:Nation
+1-b:Reuilly - Diderot
+1-b:Gare de Lyon
+1-b:Bastille
+1-b:Saint-Paul
+1-b:Hotel de Ville
+1-b:Chatelet
+1-b:Louvre - Rivoli
+1-b:Palais Royal - Musee du Louvre
+1-b:Tuileries
+1-b:Concorde
+1-b:Champs Elysees - Clemenceau
+1-b:Franklin-D. Roosevelt
+1-b:George V
+1-b:Charles de Gaulle - Etoile
+1-b:Argentine
+1-b:Porte Maillot
+1-b:Les Sablons
+1-b:Pont de Neuilly
+1-b:Esplanade de La Defense
+1-b:Grande Arche de La Defense
+#### 2-a:Porte Dauphine -- Etoile -- Nation
+2-a:Porte Dauphine
+2-a:Victor Hugo
+2-a:Charles de Gaulle - Etoile
+2-a:Ternes
+2-a:Courcelles
+2-a:Monceau
+2-a:Villiers
+2-a:Rome
+2-a:Place de Clichy
+2-a:Blanche
+2-a:Pigalle
+2-a:Anvers
+2-a:Barbes - Rochechouart
+2-a:La Chapelle
+2-a:Stalingrad
+2-a:Jaures
+2-a:Colonel Fabien
+2-a:Belleville
+2-a:Couronnes
+2-a:Menilmontant
+2-a:Pere Lachaise
+2-a:Philippe Auguste
+2-a:Alexandre Dumas
+2-a:Avron
+2-a:Nation
+#### 2-b:Nation -- Etoile -- Porte Dauphine
+2-b:Nation
+2-b:Avron
+2-b:Alexandre Dumas
+2-b:Philippe Auguste
+2-b:Pere Lachaise
+2-b:Menilmontant
+2-b:Couronnes
+2-b:Belleville
+2-b:Colonel Fabien
+2-b:Jaures
+2-b:Stalingrad
+2-b:La Chapelle
+2-b:Barbes - Rochechouart
+2-b:Anvers
+2-b:Pigalle
+2-b:Blanche
+2-b:Place de Clichy
+2-b:Rome
+2-b:Villiers
+2-b:Monceau
+2-b:Courcelles
+2-b:Ternes
+2-b:Charles de Gaulle - Etoile
+2-b:Victor Hugo
+2-b:Porte Dauphine
+#### 3-a:Pont de Levallois -- Gallieni
+3-a:Pont de Levallois - Becon
+3-a:Anatole France
+3-a:Louise Michel
+3-a:Porte de Champerret
+3-a:Pereire
+3-a:Wagram
+3-a:Malesherbes
+3-a:Villiers
+3-a:Europe
+3-a:Saint-Lazare
+3-a:Havre - Caumartin
+3-a:Opera
+3-a:Quatre Septembre
+3-a:Bourse
+3-a:Sentier
+3-a:Reaumur - Sebastopol
+3-a:Arts et Metiers
+3-a:Temple
+3-a:Republique
+3-a:Parmentier
+3-a:Saint-Maur
+3-a:Pere Lachaise
+3-a:Gambetta
+3-a:Porte de Bagnolet
+3-a:Gallieni
+#### 3-b:Gallieni -- Pont de Levallois
+3-b:Gallieni
+3-b:Porte de Bagnolet
+3-b:Gambetta
+3-b:Pere Lachaise
+3-b:Saint-Maur
+3-b:Parmentier
+3-b:Republique
+3-b:Temple
+3-b:Arts et Metiers
+3-b:Reaumur - Sebastopol
+3-b:Sentier
+3-b:Bourse
+3-b:Quatre Septembre
+3-b:Opera
+3-b:Havre - Caumartin
+3-b:Saint-Lazare
+3-b:Europe
+3-b:Villiers
+3-b:Malesherbes
+3-b:Wagram
+3-b:Pereire
+3-b:Porte de Champerret
+3-b:Louise Michel
+3-b:Anatole France
+3-b:Pont de Levallois - Becon
+#### 3b-c:Gambetta -- Porte des Lilas
+3b-c:Gambetta
+3b-c:Pelleport
+3b-c:Saint-Fargeau
+3b-c:Porte des Lilas
+#### 3-d:Porte des Lilas -- Gambetta
+3b-d:Porte des Lilas
+3b-d:Saint-Fargeau
+3b-d:Pelleport
+3b-d:Gambetta
+#### 4-a:Porte de Clignancourt -- Mairie de Montrouge
+4-a:Porte de Clignancourt
+4-a:Simplon
+4-a:Marcadet - Poissonniers
+4-a:Chateau Rouge
+4-a:Barbes - Rochechouart
+4-a:Gare du Nord
+4-a:Gare de l'Est
+4-a:Chateau d'Eau
+4-a:Strasbourg - Saint-Denis
+4-a:Reaumur - Sebastopol
+4-a:Etienne Marcel
+4-a:Les Halles
+4-a:Chatelet
+4-a:Cite
+4-a:Saint-Michel
+4-a:Odeon
+4-a:Saint-Germain des Pres
+4-a:Saint-Sulpice
+4-a:Saint-Placide
+4-a:Montparnasse - Bienvenue
+4-a:Vavin
+4-a:Raspail
+4-a:Denfert Rochereau
+4-a:Mouton Duvernet
+4-a:Alesia
+4-a:Porte d'Orleans
+4-a:Mairie de Montrouge
+#### 4-b:Mairie de Montrouge -- Porte de Clignancourt
+4-b:Mairie de Montrouge
+4-b:Porte d'Orleans
+4-b:Alesia
+4-b:Mouton Duvernet
+4-b:Denfert Rochereau
+4-b:Raspail
+4-b:Vavin
+4-b:Montparnasse - Bienvenue
+4-b:Saint-Placide
+4-b:Saint-Sulpice
+4-b:Saint-Germain des Pres
+4-b:Odeon
+4-b:Saint-Michel
+4-b:Cite
+4-b:Chatelet
+4-b:Les Halles
+4-b:Etienne Marcel
+4-b:Reaumur - Sebastopol
+4-b:Strasbourg - Saint-Denis
+4-b:Chateau d'Eau
+4-b:Gare de l'Est
+4-b:Gare du Nord
+4-b:Barbes - Rochechouart
+4-b:Chateau Rouge
+4-b:Marcadet - Poissonniers
+4-b:Simplon
+4-b:Porte de Clignancourt
+#### 5-a:Bobigny -- Place d'Italie
+5-a:Bobigny - Pablo Picasso
+5-a:Bobigny - Pantin - Raymond Queneau
+5-a:Eglise de Pantin
+5-a:Hoche
+5-a:Porte de Pantin
+5-a:Ourcq
+5-a:Laumiere
+5-a:Jaures
+5-a:Stalingrad
+5-a:Gare du Nord
+5-a:Gare de l'Est
+5-a:Jacques Bonsergent
+5-a:Republique
+5-a:Oberkampf
+5-a:Richard Lenoir
+5-a:Breguet - Sabin
+5-a:Bastille
+5-a:Quai de la Rapee
+5-a:Gare d'Austerlitz
+5-a:Saint-Marcel
+5-a:Campo Formio
+5-a:Place d'Italie
+#### 5-b:Place d'Italie -- Bobigny
+5-b:Place d'Italie
+5-b:Campo Formio
+5-b:Saint-Marcel
+5-b:Gare d'Austerlitz
+5-b:Quai de la Rapee
+5-b:Bastille
+5-b:Breguet - Sabin
+5-b:Richard Lenoir
+5-b:Oberkampf
+5-b:Republique
+5-b:Jacques Bonsergent
+5-b:Gare de l'Est
+5-b:Gare du Nord
+5-b:Stalingrad
+5-b:Jaures
+5-b:Laumiere
+5-b:Ourcq
+5-b:Porte de Pantin
+5-b:Hoche
+5-b:Eglise de Pantin
+5-b:Bobigny - Pantin - Raymond Queneau
+5-b:Bobigny - Pablo Picasso
+#### 6-a:Etoile -- Nation
+6-a:Charles de Gaulle - Etoile
+6-a:Kleber
+6-a:Boissiere
+6-a:Trocadero
+6-a:Passy
+6-a:Bir Hakeim
+6-a:Dupleix
+6-a:La Motte-Picquet - Grenelle
+6-a:Cambronne
+6-a:Sevres - Lecourbe
+6-a:Pasteur
+6-a:Montparnasse - Bienvenue
+6-a:Edgar Quinet
+6-a:Raspail
+6-a:Denfert Rochereau
+6-a:Saint-Jacques
+6-a:Glaciere
+6-a:Corvisart
+6-a:Place d'Italie
+6-a:Nationale
+6-a:Chevaleret
+6-a:Quai de la Gare
+6-a:Bercy
+6-a:Dugommier
+6-a:Daumesnil
+6-a:Bel Air
+6-a:Picpus
+6-a:Nation
+#### 6-b:Nation -- Etoile
+6-b:Nation
+6-b:Picpus
+6-b:Bel Air
+6-b:Daumesnil
+6-b:Dugommier
+6-b:Bercy
+6-b:Quai de la Gare
+6-b:Chevaleret
+6-b:Nationale
+6-b:Place d'Italie
+6-b:Corvisart
+6-b:Glaciere
+6-b:Saint-Jacques
+6-b:Denfert Rochereau
+6-b:Raspail
+6-b:Edgar Quinet
+6-b:Montparnasse - Bienvenue
+6-b:Pasteur
+6-b:Sevres - Lecourbe
+6-b:Cambronne
+6-b:La Motte-Picquet - Grenelle
+6-b:Dupleix
+6-b:Bir Hakeim
+6-b:Passy
+6-b:Trocadero
+6-b:Boissiere
+6-b:Kleber
+6-b:Charles de Gaulle - Etoile
+#### 7-a:La Courneuve -- Mairie d'Ivry
+7-a:La Courneuve - 8 Mai 1945
+7-a:Fort d'Aubervilliers
+7-a:Aubervilliers - Pantin Quatre Chemins
+7-a:Porte de la Villette
+7-a:Corentin Cariou
+7-a:Crimee
+7-a:Riquet
+7-a:Stalingrad
+7-a:Louis Blanc
+7-a:Chateau Landon
+7-a:Gare de l'Est
+7-a:Poissonniere
+7-a:Cadet
+7-a:Le Peletier
+7-a:Chaussee d'Antin - La Fayette
+7-a:Opera
+7-a:Pyramides
+7-a:Palais Royal - Musee du Louvre
+7-a:Pont Neuf
+7-a:Chatelet
+7-a:Pont Marie
+7-a:Sully - Morland
+7-a:Jussieu
+7-a:Place Monge
+7-a:Censier - Daubenton
+7-a:Les Gobelins
+7-a:Place d'Italie
+7-a:Tolbiac
+7-a:Maison Blanche
+7-a:Porte d'Italie
+7-a:Porte de Choisy
+7-a:Porte d'Ivry
+7-a:Pierre Curie
+7-a:Mairie d'Ivry
+#### 7-b:Mairie d'Ivry -- La Courneuve
+7-b:Mairie d'Ivry
+7-b:Pierre Curie
+7-b:Porte d'Ivry
+7-b:Porte de Choisy
+7-b:Porte d'Italie
+7-b:Maison Blanche
+7-b:Tolbiac
+7-b:Place d'Italie
+7-b:Les Gobelins
+7-b:Censier - Daubenton
+7-b:Place Monge
+7-b:Jussieu
+7-b:Sully - Morland
+7-b:Pont Marie
+7-b:Chatelet
+7-b:Pont Neuf
+7-b:Palais Royal - Musee du Louvre
+7-b:Pyramides
+7-b:Opera
+7-b:Chaussee d'Antin - La Fayette
+7-b:Le Peletier
+7-b:Cadet
+7-b:Poissonniere
+7-b:Gare de l'Est
+7-b:Chateau Landon
+7-b:Louis Blanc
+7-b:Stalingrad
+7-b:Riquet
+7-b:Crimee
+7-b:Corentin Cariou
+7-b:Porte de la Villette
+7-b:Aubervilliers - Pantin Quatre Chemins
+7-b:Fort d'Aubervilliers
+7-b:La Courneuve - 8 Mai 1945
+#### 7-c:Maison Blanche -- Villejuif
+7-c:Maison Blanche
+7-c:Le Kremlin Bicetre
+7-c:Villejuif - Leo Lagrange
+7-c:Villejuif - Paul Vaillant-Couturier
+7-c:Villejuif - Louis Aragon
+#### 7-d:Villejuif -- Maison Blanche
+7-d:Villejuif - Louis Aragon
+7-d:Villejuif - Paul Vaillant-Couturier
+7-d:Villejuif - Leo Lagrange
+7-d:Le Kremlin Bicetre
+7-d:Maison Blanche
+#### 7b-e:Pre-Saint-Gervais -- Louis Blanc
+7b-e:Pre-Saint-Gervais
+7b-e:Danube
+7b-e:Botzaris
+7b-e:Buttes Chaumont
+7b-e:Bolivar
+7b-e:Jaures
+7b-e:Louis Blanc
+#### 7b-f:Louis Blanc -- Pre-Saint-Gervais
+7b-f:Louis Blanc
+7b-f:Jaures
+7b-f:Bolivar
+7b-f:Buttes Chaumont
+7b-f:Botzaris
+7b-f:Place des Fetes
+7b-f:Pre-Saint-Gervais
+#### 8-a:Balard -- Creteil
+8-a:Balard
+8-a:Lourmel
+8-a:Boucicaut
+8-a:Felix Faure
+8-a:Commerce
+8-a:La Motte-Picquet - Grenelle
+8-a:Ecole Militaire
+8-a:Latour Maubourg
+8-a:Invalides
+8-a:Concorde
+8-a:Madeleine
+8-a:Opera
+8-a:Richelieu - Drouot
+8-a:Rue Montmartre
+8-a:Bonne Nouvelle
+8-a:Strasbourg - Saint-Denis
+8-a:Republique
+8-a:Filles du Calvaire
+8-a:Saint-Sebastien - Froissart
+8-a:Chemin Vert
+8-a:Bastille
+8-a:Ledru Rollin
+8-a:Faidherbe - Chaligny
+8-a:Reuilly - Diderot
+8-a:Montgallet
+8-a:Daumesnil
+8-a:Michel Bizot
+8-a:Porte Doree
+8-a:Porte de Charenton
+8-a:Liberte
+8-a:Charenton - Ecoles
+8-a:Alfort - Ecole Veterinaire
+8-a:Maisons-Alfort - Stade
+8-a:Maisons-Alfort - Les Juilliottes
+8-a:Creteil - L'Echat
+8-a:Creteil - Universite
+8-a:Creteil - Prefecture
+#### 8-b:Creteil -- Balard
+8-b:Creteil - Prefecture
+8-b:Creteil - Universite
+8-b:Creteil - L'Echat
+8-b:Maisons-Alfort - Les Juilliottes
+8-b:Maisons-Alfort - Stade
+8-b:Alfort - Ecole Veterinaire
+8-b:Charenton - Ecoles
+8-b:Liberte
+8-b:Porte de Charenton
+8-b:Porte Doree
+8-b:Michel Bizot
+8-b:Daumesnil
+8-b:Montgallet
+8-b:Reuilly - Diderot
+8-b:Faidherbe - Chaligny
+8-b:Ledru Rollin
+8-b:Bastille
+8-b:Chemin Vert
+8-b:Saint-Sebastien - Froissart
+8-b:Filles du Calvaire
+8-b:Republique
+8-b:Strasbourg - Saint-Denis
+8-b:Bonne Nouvelle
+8-b:Rue Montmartre
+8-b:Richelieu - Drouot
+8-b:Opera
+8-b:Madeleine
+8-b:Concorde
+8-b:Invalides
+8-b:Latour Maubourg
+8-b:Ecole Militaire
+8-b:La Motte-Picquet - Grenelle
+8-b:Commerce
+8-b:Felix Faure
+8-b:Boucicaut
+8-b:Lourmel
+8-b:Balard
+#### 9-a:Pont de Sevres, Mairie de Montreuil
+9-a:Pont de Sevres
+9-a:Billancourt
+9-a:Marcel Sembat
+9-a:Porte de Saint-Cloud
+9-a:Exelmans
+9-a:Michel-Ange - Molitor
+9-a:Michel-Ange - Auteuil
+9-a:Jasmin
+9-a:Ranelagh
+9-a:La Muette
+9-a:Rue de la Pompe
+9-a:Trocadero
+9-a:Iena
+9-a:Alma - Marceau
+9-a:Franklin-D. Roosevelt
+9-a:Saint-Philippe du Roule
+9-a:Miromesnil
+9-a:Saint-Augustin
+9-a:Havre - Caumartin
+9-a:Chaussee d'Antin - La Fayette
+9-a:Richelieu - Drouot
+9-a:Rue Montmartre
+9-a:Bonne Nouvelle
+9-a:Strasbourg - Saint-Denis
+9-a:Republique
+9-a:Oberkampf
+9-a:Saint-Ambroise
+9-a:Voltaire
+9-a:Charonne
+9-a:Boulets - Montreuil
+9-a:Nation
+9-a:Buzenval
+9-a:Maraichers
+9-a:Porte de Montreuil
+9-a:Robespierre
+9-a:Croix de Chavaux
+9-a:Mairie de Montreuil
+#### 9-b:Mairie de Montreuil, Pont de Sevres
+9-b:Mairie de Montreuil
+9-b:Croix de Chavaux
+9-b:Robespierre
+9-b:Porte de Montreuil
+9-b:Maraichers
+9-b:Buzenval
+9-b:Nation
+9-b:Boulets - Montreuil
+9-b:Charonne
+9-b:Voltaire
+9-b:Saint-Ambroise
+9-b:Oberkampf
+9-b:Republique
+9-b:Strasbourg - Saint-Denis
+9-b:Bonne Nouvelle
+9-b:Rue Montmartre
+9-b:Richelieu - Drouot
+9-b:Chaussee d'Antin - La Fayette
+9-b:Havre - Caumartin
+9-b:Saint-Augustin
+9-b:Miromesnil
+9-b:Saint-Philippe du Roule
+9-b:Franklin-D. Roosevelt
+9-b:Alma - Marceau
+9-b:Iena
+9-b:Trocadero
+9-b:Rue de la Pompe
+9-b:La Muette
+9-b:Ranelagh
+9-b:Jasmin
+9-b:Michel-Ange - Auteuil
+9-b:Michel-Ange - Molitor
+9-b:Exelmans
+9-b:Porte de Saint-Cloud
+9-b:Marcel Sembat
+9-b:Billancourt
+9-b:Pont de Sevres
+#### 10-a:Boulogne -- Austerlitz
+10-a:Boulogne - Pont de Saint-Cloud
+10-a:Boulogne - Jean Jaures
+10-a:Michel-Ange - Molitor
+10-a:Chardon - Lagache
+10-a:Mirabeau
+10-a:Javel
+10-a:Charles Michels
+10-a:Avenue Emile Zola
+10-a:La Motte-Picquet - Grenelle
+10-a:Segur
+10-a:Duroc
+10-a:Vaneau
+10-a:Sevres - Babylone
+10-a:Mabillon
+10-a:Odeon
+10-a:Cluny - La Sorbonne
+10-a:Maubert - Mutualite
+10-a:Cardinal Lemoine
+10-a:Jussieu
+10-a:Gare d'Austerlitz
+#### 10-b:Austerlitz -- Boulogne
+10-b:Gare d'Austerlitz
+10-b:Jussieu
+10-b:Cardinal Lemoine
+10-b:Maubert - Mutualite
+10-b:Cluny - La Sorbonne
+10-b:Odeon
+10-b:Mabillon
+10-b:Sevres - Babylone
+10-b:Vaneau
+10-b:Duroc
+10-b:Segur
+10-b:La Motte-Picquet - Grenelle
+10-b:Avenue Emile Zola
+10-b:Charles Michels
+10-b:Javel
+10-b:Eglise d'Auteuil
+10-b:Michel-Ange - Auteuil
+10-b:Porte d'Auteuil
+10-b:Boulogne - Jean Jaures
+10-b:Boulogne - Pont de Saint-Cloud
+#### 10-c:Porte d'Auteuil -- Michel-Ange - Molitor  (avant 1980 et Boulogne)
+10-c:Porte d'Auteuil
+####
+10-c:Michel-Ange - Molitor
+#### 11-a:Mairie des Lilas -- Chatelet
+11-a:Mairie des Lilas
+11-a:Porte des Lilas
+11-a:Telegraphe
+11-a:Place des Fetes
+11-a:Jourdain
+11-a:Pyrenees
+11-a:Belleville
+11-a:Goncourt
+11-a:Republique
+11-a:Arts et Metiers
+11-a:Rambuteau
+11-a:Hotel de Ville
+11-a:Chatelet
+#### 11-b:Chatelet -- Mairie des Lilas
+11-b:Chatelet
+11-b:Hotel de Ville
+11-b:Rambuteau
+11-b:Arts et Metiers
+11-b:Republique
+11-b:Goncourt
+11-b:Belleville
+11-b:Pyrenees
+11-b:Jourdain
+11-b:Place des Fetes
+11-b:Telegraphe
+11-b:Porte des Lilas
+11-b:Mairie des Lilas
+#### 12-a:Porte de la Chapelle -- Mairie d'Issy
+12-a:Porte de la Chapelle
+12-a:Marx Dormoy
+12-a:Marcadet - Poissonniers
+12-a:Jules Joffrin
+12-a:Lamarck - Caulaincourt
+12-a:Abbesses
+12-a:Pigalle
+12-a:Saint-Georges
+12-a:Notre-Dame de Lorette
+12-a:Trinite
+12-a:Saint-Lazare
+12-a:Madeleine
+12-a:Concorde
+12-a:Assemblee Nationale
+12-a:Solferino
+12-a:Rue du Bac
+12-a:Sevres - Babylone
+12-a:Rennes
+12-a:Notre-Dame des Champs
+12-a:Montparnasse - Bienvenue
+12-a:Falguiere
+12-a:Pasteur
+12-a:Volontaires
+12-a:Vaugirard
+12-a:Convention
+12-a:Porte de Versailles
+12-a:Corentin Celton
+12-a:Mairie d'Issy
+#### 12-b:Mairie d'Issy -- Porte de la Chapelle
+12-b:Mairie d'Issy
+12-b:Corentin Celton
+12-b:Porte de Versailles
+12-b:Convention
+12-b:Vaugirard
+12-b:Volontaires
+12-b:Pasteur
+12-b:Falguiere
+12-b:Montparnasse - Bienvenue
+12-b:Notre-Dame des Champs
+12-b:Rennes
+12-b:Sevres - Babylone
+12-b:Rue du Bac
+12-b:Solferino
+12-b:Assemblee Nationale
+12-b:Concorde
+12-b:Madeleine
+12-b:Saint-Lazare
+12-b:Trinite
+12-b:Notre-Dame de Lorette
+12-b:Saint-Georges
+12-b:Pigalle
+12-b:Abbesses
+12-b:Lamarck - Caulaincourt
+12-b:Jules Joffrin
+12-b:Marcadet - Poissonniers
+12-b:Marx Dormoy
+12-b:Porte de la Chapelle
+#### 13-a:Saint-Denis -- Montrouge
+13-a:Saint-Denis - Basilique
+13-a:Saint-Denis - Porte de Paris
+13-a:Carrefour Pleyel
+13-a:Mairie de Saint-Ouen
+13-a:Garibaldi
+13-a:Porte de Saint-Ouen
+13-a:Guy Moquet
+13-a:La Fourche
+13-a:Place de Clichy
+13-a:Liege
+13-a:Saint-Lazare
+13-a:Miromesnil
+13-a:Champs Elysees - Clemenceau
+13-a:Invalides
+13-a:Varenne
+13-a:Saint-Francois-Xavier
+13-a:Duroc
+13-a:Montparnasse - Bienvenue
+13-a:Gaite
+13-a:Pernety
+13-a:Plaisance
+13-a:Porte de Vanves
+13-a:Malakoff - Plateau de Vanves
+13-a:Malakoff - Rue Etienne Dolet
+13-a:Chatillon - Montrouge
+#### 13-b:Montrouge -- Saint-Denis
+13-b:Chatillon - Montrouge
+13-b:Malakoff - Rue Etienne Dolet
+13-b:Malakoff - Plateau de Vanves
+13-b:Porte de Vanves
+13-b:Plaisance
+13-b:Pernety
+13-b:Gaite
+13-b:Montparnasse - Bienvenue
+13-b:Duroc
+13-b:Saint-Francois-Xavier
+13-b:Varenne
+13-b:Invalides
+13-b:Champs Elysees - Clemenceau
+13-b:Miromesnil
+13-b:Saint-Lazare
+13-b:Liege
+13-b:Place de Clichy
+13-b:La Fourche
+13-b:Guy Moquet
+13-b:Porte de Saint-Ouen
+13-b:Garibaldi
+13-b:Mairie de Saint-Ouen
+13-b:Carrefour Pleyel
+13-b:Saint-Denis - Porte de Paris
+13-b:Saint-Denis - Basilique
+#### 13-c:Gabriel Peri -- La Fourche
+13-c:Gabriel Peri
+13-c:Mairie de Clichy
+13-c:Porte de Clichy
+13-c:Brochant
+13-c:La Fourche
+#### 13-d:La Fourche -- Gabriel Peri
+13-d:La Fourche
+13-d:Brochant
+13-d:Porte de Clichy
+13-d:Mairie de Clichy
+13-d:Gabriel Peri
+#### 14-a:Saint-Lazare -- Olympiades
+14-a:Saint-Lazare
+14-a:Madeleine
+14-a:Pyramides
+14-a:Chatelet
+14-a:Gare de Lyon
+14-a:Bercy
+14-a:Cour Saint-Emilion
+14-a:Bibliotheque Francois-Mitterand
+14-a:Olympiades
+#### 14-b:Olympiades -- Saint-Lazare
+14-b:Olympiades
+14-b:Bibliotheque Francois-Mitterand
+14-b:Cour Saint-Emilion
+14-b:Bercy
+14-b:Gare de Lyon
+14-b:Chatelet
+14-b:Pyramides
+14-b:Madeleine
+14-b:Saint-Lazare
+#### P1-a:Chatelet -- Chatelet - Les Halles -- Les Halles
+P1-a:Chatelet
+P1-a:Chatelet - Les Halles
+P1-a:Les Halles
+#### P1-b:Chatelet -- Chatelet - Les Halles -- Les Halles
+P1-b:Les Halles
+P1-b:Chatelet - Les Halles
+P1-b:Chatelet
+#### P3-a:La Chapelle -- Gare du Nord
+P3-a:La Chapelle
+P3-a:Gare du Nord
+P3-a:Magenta
+#### P3-b:La Chapelle -- Gare du Nord
+P3-b:Magenta
+P3-b:Gare du Nord
+P3-b:La Chapelle
+#### P4-a:Havre - Caumartin -- Auber -- Opera
+P4-a:Saint-Augustin
+P4-a:Saint-Lazare
+P4-a:Haussman St-Lazare
+P4-a:Havre - Caumartin
+P4-a:Auber
+P4-a:Opera
+#### P4-b:Havre - Caumartin -- Auber -- Opera
+P4-b:Opera
+P4-b:Auber
+P4-b:Havre - Caumartin
+P4-b:Haussman St-Lazare
+P4-b:Saint-Lazare
+P4-b:Saint-Augustin
+#### P5-a:Saint-Michel -- Saint-Michel - Notre-Dame -- Cluny - La Sorbonne
+P5-a:Saint-Michel
+P5-a:Saint-Michel - Notre-Dame
+P5-a:Cluny - La Sorbonne
+#### P5-b:Saint-Michel -- Saint-Michel - Notre-Dame -- Cluny - La Sorbonne
+P5-b:Cluny - La Sorbonne
+P5-b:Saint-Michel - Notre-Dame
+P5-b:Saint-Michel
+#### P6-a:Bir Hakeim -- Champ de Mars - Tour Eiffel
+P6-a:Bir Hakeim
+P6-a:Champ de Mars - Tour Eiffel
+#### P6-b:Bir Hakeim -- Champ de Mars - Tour Eiffel
+P6-b:Champ de Mars - Tour Eiffel
+P6-b:Bir Hakeim
+#### P7-a:La Muette -- Boulainvilliers
+P7-a:La Muette
+P7-a:Boulainvilliers
+#### P7-b:La Muette -- Boulainvilliers
+P7-b:Boulainvilliers
+P7-b:La Muette
+#### A-a:Saint-Germain en Laye ... La Defense -- Vincennes ... Boissy Saint-Leger
+A-a:Grande Arche de La Defense
+A-a:Charles de Gaulle - Etoile
+A-a:Auber
+A-a:Chatelet - Les Halles
+A-a:Gare de Lyon
+A-a:Nation
+A-a:Vincennes
+#### A-b:Boissy Saint-Leger ... Vincennes -- La Defense ... Saint-Germain en Laye
+A-b:Vincennes
+A-b:Nation
+A-b:Gare de Lyon
+A-b:Chatelet - Les Halles
+A-b:Auber
+A-b:Charles de Gaulle - Etoile
+A-b:Grande Arche de La Defense
+#### B-a:Saint-Remy ... Gentilly -- La Plaine - Voyageurs ... Roissy
+B-a:Gentilly
+B-a:Cite Universitaire
+B-a:Denfert Rochereau
+B-a:Port Royal
+B-a:Luxembourg
+B-a:Saint-Michel - Notre-Dame
+B-a:Chatelet - Les Halles
+B-a:Gare du Nord
+B-a:La Plaine - Voyageurs
+#### B-b:Roissy ... La Plaine - Voyageurs -- Gentilly ... Saint-Remy
+B-b:La Plaine - Voyageurs
+B-b:Gare du Nord
+B-b:Chatelet - Les Halles
+B-b:Saint-Michel - Notre-Dame
+B-b:Luxembourg
+B-b:Port Royal
+B-b:Denfert Rochereau
+B-b:Cite Universitaire
+B-b:Gentilly
+#### C-a:Saint-Quentin ... Issy - Plaine -- Ivry sur Seine ... Choisy le Roy ...
+C-a:Javel
+C-a:Champ de Mars - Tour Eiffel
+C-a:Pont de l'Alma
+C-a:Invalides
+C-a:Musee d'Orsay
+C-a:Saint-Michel - Notre-Dame
+C-a:Gare d'Austerlitz
+C-a:Bibliotheque Francois-Mitterand
+C-a:Ivry sur Seine
+#### C-b:... Choisy le Roi ... Ivry sur Seine -- Issy - Plaine ... Saint-Quentin
+C-b:Ivry sur Seine
+C-b:Bibliotheque Francois-Mitterand
+C-b:Gare d'Austerlitz
+C-b:Saint-Michel - Notre-Dame
+C-b:Musee d'Orsay
+C-b:Invalides
+C-b:Pont de l'Alma
+C-b:Champ de Mars - Tour Eiffel
+C-b:Javel
+#### C-c:Argenteuil ... Saint-Ouen -- Champ de Mars - Tour Eiffel
+C-c:Saint-Ouen
+C-c:Porte de Clichy
+C-c:Pereire
+C-c:Porte Maillot
+C-c:Avenue Foch
+C-c:Avenue Henri Martin
+C-c:Boulainvilliers
+C-c:Kennedy - Radio-France
+C-c:Champ de Mars - Tour Eiffel
+#### C-d:Champ de Mars - Tour Eiffel -- Saint-Ouen ... Argenteuil
+C-d:Champ de Mars - Tour Eiffel
+C-d:Kennedy - Radio-France
+C-d:Boulainvilliers
+C-d:Avenue Henri Martin
+C-d:Avenue Foch
+C-d:Porte Maillot
+C-d:Pereire
+C-d:Porte de Clichy
+C-d:Saint-Ouen
+#### D-a:Melun ... Maisons-Alfort - Alfortville -- Saint-Denis ... Orry la Ville
+D-a:Maisons-Alfort - Alfortville
+D-a:Gare de Lyon
+D-a:Chatelet - Les Halles
+D-a:Gare du Nord
+D-a:Saint-Denis
+#### D-b:Orry la Ville ... Saint-Denis -- Maisons-Alfort - Alfortville ... Melun
+D-b:Saint-Denis
+D-b:Gare du Nord
+D-b:Chatelet - Les Halles
+D-b:Gare de Lyon
+D-b:Maisons-Alfort - Alfortville
+#### E-a
+E-a:Haussman St-Lazare
+E-a:Magenta
+#### E-b
+E-b:Magenta
+E-b:Haussman St-Lazare
